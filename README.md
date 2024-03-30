@@ -24,8 +24,8 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg)&nbsp;
-![Flutter](hhttps://cdn.simpleicons.org/flutter/02569B)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-00AFF0?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-00AFF0?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
